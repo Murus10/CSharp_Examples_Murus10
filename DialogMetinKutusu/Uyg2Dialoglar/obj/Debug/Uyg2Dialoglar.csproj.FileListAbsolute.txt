@@ -1,0 +1,31 @@
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg2Dialoglar\Uyg2Dialoglar\bin\Debug\Uyg2Dialoglar.exe.config
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg2Dialoglar\Uyg2Dialoglar\bin\Debug\Uyg2Dialoglar.exe
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg2Dialoglar\Uyg2Dialoglar\bin\Debug\Uyg2Dialoglar.pdb
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.csprojAssemblyReference.cache
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.Form1.resources
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.Properties.Resources.resources
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.csproj.GenerateResource.cache
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.csproj.CoreCompileInputs.cache
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.exe
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg2Dialoglar\Uyg2Dialoglar\bin\Debug\Uyg2Dialoglar.exe.config
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg2Dialoglar\Uyg2Dialoglar\bin\Debug\Uyg2Dialoglar.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg2Dialoglar\Uyg2Dialoglar\bin\Debug\Uyg2Dialoglar.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.csproj.AssemblyReference.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.csproj.SuggestedBindingRedirects.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.Form1.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.Properties.Resources.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.csproj.GenerateResource.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.csproj.CoreCompileInputs.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg2Dialoglar\Uyg2Dialoglar\bin\Debug\Uyg2Dialoglar.exe.config
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg2Dialoglar\Uyg2Dialoglar\bin\Debug\Uyg2Dialoglar.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg2Dialoglar\Uyg2Dialoglar\bin\Debug\Uyg2Dialoglar.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.csproj.AssemblyReference.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.Form1.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.Properties.Resources.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.csproj.GenerateResource.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.csproj.CoreCompileInputs.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg2Dialoglar\Uyg2Dialoglar\obj\Debug\Uyg2Dialoglar.pdb
