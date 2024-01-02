@@ -1,0 +1,31 @@
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg3VKI\Uyg3VKI\bin\Debug\Uyg3VKI.exe.config
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg3VKI\Uyg3VKI\bin\Debug\Uyg3VKI.exe
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg3VKI\Uyg3VKI\bin\Debug\Uyg3VKI.pdb
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.csprojAssemblyReference.cache
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.Form1.resources
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.Properties.Resources.resources
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.csproj.GenerateResource.cache
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.csproj.CoreCompileInputs.cache
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.exe
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg3VKI\Uyg3VKI\bin\Debug\Uyg3VKI.exe.config
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg3VKI\Uyg3VKI\bin\Debug\Uyg3VKI.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg3VKI\Uyg3VKI\bin\Debug\Uyg3VKI.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.csproj.AssemblyReference.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.csproj.SuggestedBindingRedirects.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.Form1.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.Properties.Resources.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.csproj.GenerateResource.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.csproj.CoreCompileInputs.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg3VKI\Uyg3VKI\bin\Debug\Uyg3VKI.exe.config
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg3VKI\Uyg3VKI\bin\Debug\Uyg3VKI.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg3VKI\Uyg3VKI\bin\Debug\Uyg3VKI.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.csproj.AssemblyReference.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.Form1.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.Properties.Resources.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.csproj.GenerateResource.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.csproj.CoreCompileInputs.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg3VKI\Uyg3VKI\obj\Debug\Uyg3VKI.pdb
