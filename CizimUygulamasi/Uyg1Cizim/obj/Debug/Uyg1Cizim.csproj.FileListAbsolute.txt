@@ -1,0 +1,31 @@
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg1Cizim\Uyg1Cizim\bin\Debug\Uyg1Cizim.exe.config
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg1Cizim\Uyg1Cizim\bin\Debug\Uyg1Cizim.exe
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg1Cizim\Uyg1Cizim\bin\Debug\Uyg1Cizim.pdb
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.csprojAssemblyReference.cache
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.Form1.resources
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.Properties.Resources.resources
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.csproj.GenerateResource.cache
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.csproj.CoreCompileInputs.cache
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.exe
+D:\Pro2\DersIciUygulamalar\hafta10\g1\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg1Cizim\Uyg1Cizim\bin\Debug\Uyg1Cizim.exe.config
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg1Cizim\Uyg1Cizim\bin\Debug\Uyg1Cizim.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg1Cizim\Uyg1Cizim\bin\Debug\Uyg1Cizim.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.csproj.AssemblyReference.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.csproj.SuggestedBindingRedirects.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.Form1.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.Properties.Resources.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.csproj.GenerateResource.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.csproj.CoreCompileInputs.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg1Cizim\Uyg1Cizim\bin\Debug\Uyg1Cizim.exe.config
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg1Cizim\Uyg1Cizim\bin\Debug\Uyg1Cizim.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg1Cizim\Uyg1Cizim\bin\Debug\Uyg1Cizim.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.csproj.AssemblyReference.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.Form1.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.Properties.Resources.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.csproj.GenerateResource.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.csproj.CoreCompileInputs.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\12.hafta (grafik,çizim,diyalog)\Uyg1Cizim\Uyg1Cizim\obj\Debug\Uyg1Cizim.pdb
