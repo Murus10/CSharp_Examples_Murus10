@@ -1,0 +1,31 @@
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg4Randevu\Uyg4Randevu\bin\Debug\Uyg4Randevu.exe.config
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg4Randevu\Uyg4Randevu\bin\Debug\Uyg4Randevu.exe
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg4Randevu\Uyg4Randevu\bin\Debug\Uyg4Randevu.pdb
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.csprojAssemblyReference.cache
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.Form1.resources
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.Properties.Resources.resources
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.csproj.GenerateResource.cache
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.csproj.CoreCompileInputs.cache
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.exe
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg4Randevu\Uyg4Randevu\bin\Debug\Uyg4Randevu.exe.config
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg4Randevu\Uyg4Randevu\bin\Debug\Uyg4Randevu.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg4Randevu\Uyg4Randevu\bin\Debug\Uyg4Randevu.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.csproj.AssemblyReference.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.csproj.SuggestedBindingRedirects.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.Form1.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.Properties.Resources.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.csproj.GenerateResource.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.csproj.CoreCompileInputs.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg4Randevu\Uyg4Randevu\bin\Debug\Uyg4Randevu.exe.config
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg4Randevu\Uyg4Randevu\bin\Debug\Uyg4Randevu.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg4Randevu\Uyg4Randevu\bin\Debug\Uyg4Randevu.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.csproj.AssemblyReference.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.Form1.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.Properties.Resources.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.csproj.GenerateResource.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.csproj.CoreCompileInputs.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg4Randevu\Uyg4Randevu\obj\Debug\Uyg4Randevu.pdb
