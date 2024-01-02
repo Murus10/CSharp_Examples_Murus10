@@ -1,0 +1,20 @@
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg2Yas\Uyg2Yas\bin\Debug\Uyg2Yas.exe.config
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg2Yas\Uyg2Yas\bin\Debug\Uyg2Yas.exe
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg2Yas\Uyg2Yas\bin\Debug\Uyg2Yas.pdb
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.csprojAssemblyReference.cache
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.Form1.resources
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.Properties.Resources.resources
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.csproj.GenerateResource.cache
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.csproj.CoreCompileInputs.cache
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.exe
+D:\Pro2\DersIciUygulamalar\hafta9\g3\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg2Yas\Uyg2Yas\bin\Debug\Uyg2Yas.exe.config
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg2Yas\Uyg2Yas\bin\Debug\Uyg2Yas.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg2Yas\Uyg2Yas\bin\Debug\Uyg2Yas.pdb
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.csproj.AssemblyReference.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.Form1.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.Properties.Resources.resources
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.csproj.GenerateResource.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.csproj.CoreCompileInputs.cache
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.exe
+C:\Users\teknosis\source\repos\CSharpERÜ\10.hafta (Formdevamı,StreamWriter..)\Uyg2Yas\Uyg2Yas\obj\Debug\Uyg2Yas.pdb
